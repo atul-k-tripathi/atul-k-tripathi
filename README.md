@@ -51,12 +51,12 @@ This project is currently under research and review and is not presented here as
 ---
 
 ## 🧠 Research Interests
-
-- Knowledge Representation
-- Knowledge Graphs
-- Ontologies
 - Statistical Learning
 - Data Mining
+- Statistics
+- Machine Learning
+- Knowledge Representation
+- Knowledge Graphs
 - Time-Series Analysis
 - Financial Econometrics
 - Mathematical Modelling
