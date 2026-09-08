@@ -3,7 +3,7 @@
 ### Mathematics Researcher
 **Knowledge Representation · Knowledge Graphs · Statistical Learning · Time-Series Analysis · Financial Econometrics**
 
-I am a mathematics researcher with an M.Sc. in Mathematics from the Indian Institute of Technology Delhi, with research interests spanning structured knowledge modelling, knowledge representation, knowledge graphs, statistical learning, time-series analysis and quantitative modelling.
+I am a mathematics researcher with an M.Sc. in Mathematics from the Indian Institute of Technology Delhi, with research interests spanning statistical learning, time-series analysis and quantitative modelling,structured knowledge modelling, knowledge representation, knowledge graphs.
 
 My research experience includes comparative evaluation of knowledge-representation paradigms for healthcare question answering and collaborative high-frequency research examining financial-market responses to geopolitical shocks.
 
