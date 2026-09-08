@@ -1,7 +1,7 @@
 # ATUL KUMAR TRIPATHI
 
 ### Mathematics Researcher
-**Knowledge Representation · Knowledge Graphs · Statistical Learning · Time-Series Analysis · Financial Econometrics**
+**Statistical Learning · Time-Series Analysis · Financial Econometrics · Knowledge Representation · Knowledge Graphs ·**
 
 I am a mathematics researcher with an M.Sc. in Mathematics from the Indian Institute of Technology Delhi, with research interests spanning statistical learning, time-series analysis and quantitative modelling,structured knowledge modelling, knowledge representation, knowledge graphs.
 
