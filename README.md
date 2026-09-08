@@ -91,6 +91,7 @@ B.Sc. Mathematics, Physics & Computer Science · 2020–2023
 - IIT JAM Mathematics · AIR 171
 - IIT JAM Mathematical Statistics · AIR 267
 - GATE Mathematics · AIR 1545
+- GATE Data Science ·Qualified 3x with best AIR 2368
 - State Academic Honour · District Rank 7
 
 ---
