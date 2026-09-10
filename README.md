@@ -108,7 +108,7 @@ Lecture Notes in Networks and Information Systems, Springer.
 
 ## 🌐 Academic Profiles
 
-**Academic Website:** Coming soon  
+**Academic Website:** https://atul-k-tripathi.github.io/  
 **Google Scholar:** https://scholar.google.com/citations?user=qjsIz7cAAAAJ&hl=en  
 **ORCID:** https://orcid.org/0009-0002-6273-5785  
 **LinkedIn:** https://www.linkedin.com/in/atul-k-tripathi/
